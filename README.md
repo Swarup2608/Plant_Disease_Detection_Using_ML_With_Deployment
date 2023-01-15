@@ -25,3 +25,6 @@ IN THIS PROJECT, WE WILL CREATE A CONVOLUTIONAL NEURAL NETWORK WHICH WILL BE ABL
 10. VISUALIZING THE ORIGINAL AND PREDICTED LABELS FOR THE TEST IMAGES.
 
 ![RS_Rust 2478](https://user-images.githubusercontent.com/82018631/212554299-e2064b8a-ff37-4b3f-a3be-5af8fc283fcb.JPG)
+
+
+Use the h5 file to directly use the model ive used
